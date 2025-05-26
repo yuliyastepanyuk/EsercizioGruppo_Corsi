@@ -37,7 +37,7 @@ public string Titolo
             else
             {
                 Console.WriteLine("Errore: La durata in ore non può essere negativa. Il valore non è stato impostato.");
-              
+            
             }
         }
     }
