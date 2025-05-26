@@ -1,6 +1,5 @@
 ﻿using System;
 
-using System;
 
 // Classe astratta: Corso
 public abstract class Corso
@@ -52,13 +51,14 @@ public string Titolo
     }
 
     // Metodo astratto: ErogCorso()
-    // Deve essere implementato da ogni classe derivata.
-    public abstract void ErogCorso();
+    public abstract void ErogaCorso();
 
     // Metodo astratto: StampaDettagli()
-    // Deve essere implementato da ogni classe derivata.
     public abstract void StampaDettagli();
 }
+
+
+
 
 
 public class Program
@@ -68,9 +68,6 @@ public class Program
 
     }
 }
-
-
-
 
 
 
