@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "X/IiCdm+wrnEQ4+kpxo20MZ908g0VSva9FWZOjrFdvhbwAWTeul6kvOXqRXmFPwyqGJ0i9iZCWQOhJfBwc34Iw==",
+  "dgSpecHash": "U0d3+Ijx4m4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gianluca\\Desktop\\verison control c#\\EsercizioGruppo_Corsi\\parteGianluca\\parteGianluca.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zxioo\\Git\\EsercizioGruppo_Corsi\\esercizioGruppo_Corsi\\parteGianluca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zxioo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.15\\microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\zxioo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\zxioo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.15\\microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\zxioo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.15\\microsoft.netcore.app.host.win-x64.8.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

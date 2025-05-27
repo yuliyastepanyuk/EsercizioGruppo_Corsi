@@ -1,0 +1,15 @@
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\obj\Debug\net8.0\parteGianluca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\obj\Debug\net8.0\parteGianluca.AssemblyInfoInputs.cache
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\obj\Debug\net8.0\parteGianluca.AssemblyInfo.cs
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\obj\Debug\net8.0\parteGianluca.csproj.CoreCompileInputs.cache
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\obj\Debug\net8.0\parteGianluca.sourcelink.json
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\bin\Debug\net8.0\parteGianluca.exe
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\bin\Debug\net8.0\parteGianluca.deps.json
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\bin\Debug\net8.0\parteGianluca.runtimeconfig.json
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\bin\Debug\net8.0\parteGianluca.dll
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\bin\Debug\net8.0\parteGianluca.pdb
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\obj\Debug\net8.0\parteGianluca.dll
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\obj\Debug\net8.0\refint\parteGianluca.dll
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\obj\Debug\net8.0\parteGianluca.pdb
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\obj\Debug\net8.0\parteGianluca.genruntimeconfig.cache
+C:\Users\zxioo\Git\EsercizioGruppo_Corsi\esercizioGruppo_Corsi\obj\Debug\net8.0\ref\parteGianluca.dll
