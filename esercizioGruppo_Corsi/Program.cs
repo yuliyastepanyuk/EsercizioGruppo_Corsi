@@ -229,13 +229,13 @@ public class Program
 
                 case 1:
                     CorsoInPresenza cPres = new CorsoInPresenza();
-                    cPres.ErogaCorso();
+                    cPres = cPres.ErogaCorso();
                     corsi.Add(cPres);
                     break;
 
                 case 2:
                     CorsoOnline cOnline = new CorsoOnline();
-                    cOnline.ErogaCorso();
+                    cOnline = cOnline.ErogaCorso();
                     corsi.Add(cOnline);
                     break;
 
